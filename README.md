@@ -36,9 +36,11 @@ A Python-based Chess Game featuring both **Player vs Player (PvP)** and **Player
 
   - AI Mode: Uses the python-chess library and interfaces with the Stockfish engine to play against the user.
 
+---
+
 ## 📸 Screenshots
 
 
--🙋‍♂️ Author
+## 🙋‍♂️ Author
   -  Jatin Kumar Panwar
   -  
