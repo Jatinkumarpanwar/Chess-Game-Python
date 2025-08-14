@@ -39,7 +39,7 @@ A Python-based Chess Game featuring both **Player vs Player (PvP)** and **Player
 ---
 
 ## 📸 Screenshots
-<img src="[C:\Users\HP\Pictures\Screenshots\Screenshot 2025-05-07 195104.png](https://github.com/Jatinkumarpanwar/Chess-Game-Python/blob/main/Screenshot%202025-05-07%20195104.png)"> 
+![image alt](https://github.com/Jatinkumarpanwar/Chess-Game-Python/blob/3a05d358df1ee1443b4e642c39e8d14e5b39d552/Screenshot%202025-05-07%20195104.png) 
 
 ## 🙋‍♂️ Author
   -  Jatin Kumar Panwar
