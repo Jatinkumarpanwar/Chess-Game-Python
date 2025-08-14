@@ -26,7 +26,7 @@ A Python-based Chess Game featuring both **Player vs Player (PvP)** and **Player
 - Python
 - Pygame
 - Tkinter
-- Stockfish Engine
+- Stockfish Engine (URL = https://stockfishchess.org/download/)
 - python-chess library
 
 ---
@@ -48,5 +48,4 @@ A Python-based Chess Game featuring both **Player vs Player (PvP)** and **Player
 ---
 
 ## 🙋‍♂️ Author
-  -  Jatin Kumar Panwar
-  -  
+  -  Jatin Kumar Panwar 
